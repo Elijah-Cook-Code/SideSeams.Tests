@@ -152,6 +152,7 @@ C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.GeneratedM
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.AssemblyInfoInputs.cache
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.AssemblyInfo.cs
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.csproj.CoreCompileInputs.cache
+C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.sourcelink.json
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeam.6EC6D34C.Up2Date
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\SideSeams.Tests.dll
 C:\code you projects\SideSeams.Tests\obj\Debug\net8.0\refint\SideSeams.Tests.dll
